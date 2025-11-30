@@ -5,7 +5,7 @@
       "title": "Дюна: Часть вторая",
       "genres": ["Фантастика", "Драма", "Приключения"],
       "synopsis": "Пол Атрейдес продолжает свой путь мессии на Арракисе и ведёт фременов в эпическую войну против империи.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMUBj4.jpg"
+      "poster": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%94%D1%8E%D0%BD%D0%B0_%E2%80%94_%D0%A7%D0%B0%D1%81%D1%82%D1%8C_%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F_(%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80).jpg"
     },
     {
       "id": 2,
@@ -19,126 +19,56 @@
       "title": "Годзилла и Конг: Новая империя",
       "genres": ["Боевик", "Фантастика", "Приключения"],
       "synopsis": "Два титана объединяются против новой угрозы, способной уничтожить всё человечество.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zGKsyA0K9UGm4GnxIJ3xR0wE9e.jpg"
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/10592371/a75ca6dd-a065-4cf3-87b2-9aa31c74c401/576x"
     },
     {
       "id": 4,
       "title": "Дэдпул и Росомаха",
       "genres": ["Боевик", "Комедия", "Супергероика"],
       "synopsis": "Уэйд Уилсон возвращается и вместе с Росомахой спасает свою временную линию от полного уничтожения.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z7tYb2k4yG5x5b5Yb4g5x5b5Yb.jpg"
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/10592371/35df2d41-69ee-42d2-a029-41fa52b03cc7/600x900"
     },
     {
       "id": 5,
       "title": "Фуриоса: Хроники Безумного Макса",
       "genres": ["Боевик", "Приключения", "Фантастика"],
       "synopsis": "Молодая Фуриоса попадает в руки байкеров и проходит путь от пленницы до легендарной воительницы.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6uYf6G2pWavqX7n4v0Z7r7k8iV.jpg"
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/10671298/67682659-46ae-48db-865f-2ee993b9af4a/600x900"
     },
     {
       "id": 6,
       "title": "Головоломка 2",
       "genres": ["Мультфильм", "Комедия", "Семейный"],
       "synopsis": "В голове Райли появляются новые эмоции — Тревога, Зависть, Скука и Стыд. Управлять стало сложнее!",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgGbQc9m7Vv9yq5zZ3tZd8z6u7q.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/7/78/Inside_Out_2.jpeg/500px-Inside_Out_2.jpeg"
     },
     {
       "id": 7,
       "title": "Веном 3: Последний танец",
       "genres": ["Боевик", "Фантастика", "Триллер"],
       "synopsis": "Эдди Брок и Веном сталкиваются с самым опасным врагом, когда их пути окончательно расходятся.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u4HpqJZt2h4K5J6Z4nY6Z3jK6L.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/a/a3/Venom_The_Last_Dance_Poster.jpg/500px-Venom_The_Last_Dance_Poster.jpg"
     },
     {
       "id": 8,
       "title": "Джокер: Безумие на двоих",
       "genres": ["Драма", "Триллер", "Мюзикл"],
       "synopsis": "Артур Флек в стенах Аркхэма встречает свою «леди» — Харли Квинн. Безумие становится общим.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aci57fv7LUUUTp9gV5wod5b8l5K.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/%D0%94%D0%B6%D0%BE%D0%BA%D0%B5%D1%80_%E2%80%94_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B4%D0%B2%D0%BE%D0%B8%D1%85.jpg/960px-%D0%94%D0%B6%D0%BE%D0%BA%D0%B5%D1%80_%E2%80%94_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B4%D0%B2%D0%BE%D0%B8%D1%85.jpg?20240820204928"
     },
     {
       "id": 9,
       "title": "Гладиатор 2",
       "genres": ["Исторический", "Боевик", "Драма"],
       "synopsis": "Люций, племянник Коммода, становится новым гладиатором и мстит за смерть матери и своё детство.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zGKsyA0K9UGm4GnxIJ3xR0wE9e.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/68/%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80_2.jpg/330px-%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80_2.jpg"
     },
     {
       "id": 10,
       "title": "Крэйвен-охотник",
       "genres": ["Боевик", "Приключения", "Супергероика"],
       "synopsis": "Сергей Кравинов — самый опасный охотник в мире — выходит на тропу войны с супергероями.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9K8j0LILN8L7yL8j0L8L8j0L8j.jpg"
+      "poster": "https://ru-images.kinorium.com/movie/300/1686246.jpg?1690532340"
     },
-    {
-      "id": 11,
-      "title": "Соник 3 в кино",
-      "genres": ["Мультфильм", "Боевик", "Комедия"],
-      "synopsis": "Соник, Тейлз и Наклз сталкиваются с Шэдоу — самым мощным врагом за всю историю.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sQXO9xKFa3S4rZ0X6g2jF4Q9Yb.jpg"
-    },
-    {
-      "id": 12,
-      "title": "Моана 2",
-      "genres": ["Мультфильм", "Приключения", "Мюзикл"],
-      "synopsis": "Моана отправляется в опасное путешествие по океану, чтобы спасти свой народ.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH6Q6O9e2y6f2y6f2y6f2y6f2y.jpg"
-    },
-    {
-      "id": 13,
-      "title": "Властелин колец: Война рохиррим",
-      "genres": ["Анимация", "Фэнтези", "Приключения"],
-      "synopsis": "Легендарная битва за Хельмову Падь глазами дочери короля Рохана — Херы.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p3Z1zL2Z3Z4z5Z6z7Z8z9Z0z1Z.jpg"
-    },
-    {
-      "id": 14,
-      "title": "Капитан Америка: Дивный новый мир",
-      "genres": ["Боевик", "Супергероика", "Приключения"],
-      "synopsis": "Сэм Уилсон в роли нового Капитана Америки сталкивается с мировым заговором.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uY9y9y9y9y9y9y9y9y9y9y9y9y.jpg"
-    },
-    {
-      "id": 15,
-      "title": "Зверополис 2",
-      "genres": ["Мультфильм", "Комедия", "Детектив"],
-      "synopsis": "Джуди и Ник возвращаются, чтобы раскрыть самое загадочное дело в истории Зверополиса.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2z2z2z2z2z2z2z2z2z2z2z2z2z.jpg"
-    },
-    {
-      "id": 16,
-      "title": "М3ГАН 2.0",
-      "genres": ["Ужасы", "Триллер", "Фантастика"],
-      "synopsis": "Кукла-убийца с ИИ возвращается ещё более умной и смертоносной.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3m3m3m3m3m3m3m3m3m3m3m3m3m.jpg"
-    },
-    {
-      "id": 17,
-      "title": "Тихое место: День первый",
-      "genres": ["Ужасы", "Триллер", "Драма"],
-      "synopsis": "Как началось вторжение слепых существ, которые охотятся на звук.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qR4qR4qR4qR4qR4qR4qR4qR4qR.jpg"
-    },
-    {
-      "id": 18,
-      "title": "Битлджюс 2",
-      "genres": ["Комедия", "Фэнтези", "Ужасы"],
-      "synopsis": "Битлджюс возвращается спустя 36 лет, чтобы снова устроить хаос в мире живых и мёртвых.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2b2b2b2b2b2b2b2b2b2b2b2b2b.jpg"
-    },
-    {
-      "id": 19,
-      "title": "Артур и Мерлин",
-      "genres": ["Фэнтези", "Приключения", "Драма"],
-      "synopsis": "Переосмысление легенды о короле Артуре и волшебнике Мерлине.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3a3a3a3a3a3a3a3a3a3a3a3a3a.jpg"
-    },
-    {
-      "id": 20,
-      "title": "Супер Марио Bros. Фильм 2",
-      "genres": ["Мультфильм", "Комедия", "Приключения"],
-      "synopsis": "Марио и Луиджи отправляются в новое приключение по Грибному королевству.",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2s2s2s2s2s2s2s2s2s2s2s2s2s.jpg"
-    }
   ]
 }
